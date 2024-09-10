@@ -3,7 +3,7 @@
 ### 👋 Olá, sou Antonio Aleixo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-aleixo-1a8923209/) 
 
-
+### Seja muito bem-vindo(a) ao meu Github
 
 ![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=AAleixo98&show_icons=true&theme=dracula)
 
